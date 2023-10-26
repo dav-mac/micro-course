@@ -10,7 +10,7 @@ No part of this publication may be reproduced or transmitted in any form or by a
 ## Permissions
 
 - You may download this book in PDF format from the **Arm.com** website for personal, non-commercial use only.
-- You may reprint or republish portions of the text for non-commercial, educational or research purposes but only if there is an attribution to Arm Education.
+- You may reprint or republish portions of the text for non-commercial, educational or research purposes but only if there is an attribution to Arm Education. 
 
 This book and the individual contributions contained in it are protected under copyright by the Publisher (other than as may be noted herein).
 
